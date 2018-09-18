@@ -1,0 +1,39 @@
+body {
+    background-color: green;
+    font-family: Helvetica, sans-serif
+}
+
+h1 {
+    font-family: 'Oswald';
+    font-size: 48px;
+    padding: 5px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+h2 {
+    font-family: 'Acme', serif;
+    font-size: 24px;
+    padding: 5px;
+    margin: auto;
+    padding-top: 10px;
+}
+
+nav {
+    background-color: rgb(106, 90, 205);
+}
+
+.btn {
+    background-color: rgb(106, 90, 205);
+}
+
+.btn:hover {
+    background-color: white;
+    color: rgb(106, 90, 205);
+}
+
+#devourButton {
+    padding-bottom: 5px;
+    font-family: 'Oswald';
+
+}
